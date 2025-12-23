@@ -24,7 +24,7 @@ Computer Vision • GNNs/Transformers • Bioinformatics & Medical AI • LLM/RA
 </p>
 
 <p>
-  <a href="https://github.com/atikdrmc1207"><img src="https://img.shields.io/badge/GitHub-@atikdrmc1207-181717?logo=github&logoColor=white" /></a>
+  <a href="https://github.com/atikdrmc1207"><img src="https://img.shields.io/badge/GitHub-@Atikelahi96-181717?logo=github&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=atikdrmc1207&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
