@@ -79,26 +79,6 @@ I build **production-ready AI systems** and also do **research-driven model deve
 ### Product / Commercial Delivery
 - Built and shipped ML components into real applications: **model inference services**, **API integration**, and **frontend-backed experiences** with **FastAPI + Next.js/Node.js**.
 
-> Tip: Pin your best repos on GitHub to showcase these clearly.
-
----
-
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Atikelahi96&show_icons=true&hide_title=true&rank_icon=github" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Atikelahi96" />
-
-<br/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atikelahi96&layout=compact&langs_count=8" />
-
-</div>
-
----
-
 ## 🤝 Let’s Connect
 
 - kaggle: **https://www.kaggle.com/mahabualahiatik**
