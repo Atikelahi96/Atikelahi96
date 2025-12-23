@@ -79,7 +79,7 @@ I build **production-ready AI systems** and also do **research-driven model deve
 ### Product / Commercial Delivery
 - Built and shipped ML components into real applications: **model inference services**, **API integration**, and **frontend-backed experiences** with **FastAPI + Next.js/Node.js**.
 - Omnichannel Automation Platform: **https://agentflow-builder.vercel.app**
-- 
+
 
 ## 🤝 Let’s Connect
 
